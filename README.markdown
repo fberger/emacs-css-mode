@@ -3,7 +3,7 @@ About
 
 This project modifies the css-mode.el file found at:
 
-[http://www.garshol.priv.no/download/software/css-mode/css-mode.el]
+[http://www.garshol.priv.no/download/software/css-mode/css-mode.el](http://www.garshol.priv.no/download/software/css-mode/css-mode.el)
 
 Changes
 =======
