@@ -164,7 +164,7 @@ C-style indentation, use cssm-c-style-indenter.")
   (define-key cssm-mode-map (read-kbd-macro "C-c C-c") 'cssm-insert-comment)
   (define-key cssm-mode-map (read-kbd-macro "C-c C-u") 'cssm-insert-url)
   (define-key cssm-mode-map (read-kbd-macro "}") 'cssm-insert-right-brace-and-indent)
-  (define-key cssm-mode-map (read-kbd-macro "M-TAB") 'cssm-complete-property))
+  (define-key cssm-mode-map (read-kbd-macro "<backtab>") 'cssm-complete-property))
 
 ;;; Cross-version compatibility layer
 
