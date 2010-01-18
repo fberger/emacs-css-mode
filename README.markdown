@@ -11,5 +11,5 @@ Changes
 =======
 
 * Trigger completion of css property entries with Shift-TAB instead of
-  M-TAB since M-TAB is reserved by the window manager on modern Desktops.
+  M-TAB since M-TAB is reserved by the window manager on modern desktops.
 
